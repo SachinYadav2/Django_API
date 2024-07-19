@@ -37,6 +37,11 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    'rest_framework', # Rest FrameWork API created krne ke liye stanred method h 
+    'testapp',
+    'api',
+    
+
 ]
 
 MIDDLEWARE = [
